@@ -1,0 +1,7 @@
+secret.json
+app.d
+DriveAccessToken
+DriveRefreshToken
+libdlang-google-client-libraries.a
+.dub
+dlang-google-client-libraries

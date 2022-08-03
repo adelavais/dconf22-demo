@@ -1,0 +1,21 @@
+{
+	"authors": [
+		"Adela Vais"
+	],
+	"copyright": "Copyright © 2021, Rober Aron",
+    "sourcePaths": ["Google", "."],
+    "importPaths": ["Google"],
+	"dependencies": {
+		"cerealed": "~>0.6.11",
+		"jsonizer": "~>0.7.6",
+		"requests": "~>1.1.6",
+		"urld": "~>2.1.1",
+		"vibe-d": "~>0.9.2"
+	},
+	"build": {
+		"ldflags-dmd": ["-version ENABLE_NLS -version YYENABLE_NLS"]
+	},
+	"description": "Dlang Google Drive Client Libraries",
+	"license": "proprietary",
+	"name": "dlang-google-client-libraries"
+}

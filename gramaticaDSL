@@ -1,0 +1,8 @@
+autentifică <user> <password>
+creează <file>
+scrie în <file> <input>
+scrie <file> <input>
+adaugă în <file> <input>
+adaugă <file> <input>
+șterge <file>
+deconectează <user>

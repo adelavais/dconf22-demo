@@ -1,0 +1,24 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"botan": "1.12.19",
+		"botan-math": "1.0.3",
+		"cachetools": "0.3.1",
+		"cerealed": "0.6.11",
+		"concepts": "0.0.8",
+		"diet-ng": "1.7.5",
+		"eventcore": "0.9.17",
+		"jsonizer": "0.7.6",
+		"libasync": "0.8.6",
+		"memutils": "1.0.4",
+		"mir-linux-kernel": "1.0.1",
+		"openssl": "1.1.6+1.0.1g",
+		"requests": "1.1.7",
+		"stdx-allocator": "2.77.5",
+		"taggedalgebraic": "0.11.22",
+		"unit-threaded": "0.7.55",
+		"urld": "2.1.1",
+		"vibe-core": "1.18.1",
+		"vibe-d": "0.9.3"
+	}
+}
